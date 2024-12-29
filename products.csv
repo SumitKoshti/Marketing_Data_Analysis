@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Price
+1,Running Shoes,Sports,223.75
+2,Fitness Tracker,Sports,196.68000000000001
+3,Yoga Mat,Sports,485.31999999999999
+4,Dumbbells,Sports,26.210000000000001
+5,Soccer Ball,Sports,41.259999999999998
+6,Tennis Racket,Sports,36.07
+7,Basketball,Sports,225.12
+8,Football Helmet,Sports,44.75
+9,Baseball Glove,Sports,327.36000000000001
+10,Golf Clubs,Sports,81.590000000000003
+11,Ski Boots,Sports,340.19999999999999
+12,Ice Skates,Sports,37.560000000000002
+13,Swim Goggles,Sports,145.97
+14,Cycling Helmet,Sports,472.31999999999999
+15,Climbing Rope,Sports,410.17000000000002
+16,Kayak,Sports,259.39999999999998
+17,Surfboard,Sports,275.43000000000001
+18,Volleyball,Sports,42.799999999999997
+19,Hockey Stick,Sports,173.83000000000001
+20,Boxing Gloves,Sports,262.31999999999999
