@@ -41,12 +41,14 @@ PowerPoint Presentation :
 Create PPT to present insights in a concise way.
 
 Insights :
-Increase Conversion Rates: 
+1. Increase Conversion Rates: 
 Target High-Performing Product Categories: Focus marketing on products with high conversion rates, like Kayaks, Ski Boots, and Baseball Gloves. Launch seasonal promotions or 
 personalized campaigns during peak months (e.g., January and September) to maximize trends.
-Enhance Customer Engagement: 
-Revitalize Content Strategy: Improve declining views and interaction rates by experimenting with engaging formats like interactive videos or user-generated content. Optimize call-to-action placement in social media and blog posts, especially during low-engagement months (September-December).
-Improve Customer Feedback Scores: 
+
+2. Enhance Customer Engagement: 
+Revitalize Content Strategy: Improve declining views and interaction rates by experimenting with engaging formats like interactive videos or user-generated content. Optimize call-to-action placement in social media and blog posts, especially during low-engagement months (August to December).
+
+4. Improve Customer Feedback Scores: 
 Address Mixed and Negative Feedback: Create a feedback loop to analyze mixed and negative reviews for recurring issues. Develop action plans to resolve these concerns, follow up with dissatisfied customers to address their issues, and encourage re-rating to help raise the average rating closer to the 4.0 target.
 
 
