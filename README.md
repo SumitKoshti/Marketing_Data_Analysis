@@ -1,5 +1,10 @@
 # Marketing-Analytics
-sports 24, an online retail business, is facing reduced customer engagement and conversion rates despite substantial investments in new marketing campaigns. With high marketing expenses yielding low returns, 
+
+Full Dashboard - [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+![See Dashboard](Overview1.jpg)
+
+🎯 Project Objective : 
+Sports 24, an online retail business, is facing reduced customer engagement and conversion rates despite substantial investments in new marketing campaigns. With high marketing expenses yielding low returns, 
 the company seeks to analyze customer feedback and identify areas for improvement in its marketing strategies.
 
 Key Points:
