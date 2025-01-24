@@ -38,16 +38,16 @@ Insight: Identify recurring positive and negative feedback to guide product and 
 
 🛠️ Tools used -
 
-A- Mysql : 
+● Mysql : 
 1. Database creation
 2. Table Creation & Dataset Import
 3. Data Checkup
 4. Data Cleanup
 
-B- Python :
+● Python :
 To carry out customer sentiment analysis by integration with mysql
 
-C- Power BI :
+● Power BI :
 1. Integrated with mysql
 2. Import dataset through sql quries
 3. Data modeling
@@ -55,7 +55,7 @@ C- Power BI :
 5. Mesures creation
 6. Report building : Overview, Conversion details, Social media details, Cusotmer review details
 
-D- PowerPoint Presentation :
+● PowerPoint Presentation :
 Create PPT to present insights in a concise way.
 
 📊 Insights :
@@ -68,6 +68,9 @@ Revitalize Content Strategy: Improve declining views and interaction rates by ex
 
 4. Improve Customer Feedback Scores: 
 Address Mixed and Negative Feedback: Create a feedback loop to analyze mixed and negative reviews for recurring issues. Develop action plans to resolve these concerns, follow up with dissatisfied customers to address their issues, and encourage re-rating to help raise the average rating closer to the 4.0 target.
+
+
+
 
 
 
