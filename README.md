@@ -37,16 +37,17 @@ Goal: Understand common themes in customer reviews and provide actionable insigh
 Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
 🛠️ Tools used -
-Mysql : 
+
+A- Mysql : 
 1. Database creation
 2. Table Creation & Dataset Import
 3. Data Checkup
 4. Data Cleanup
 
-Python :
+B- Python :
 To carry out customer sentiment analysis by integration with mysql
 
-Power BI :
+C- Power BI :
 1. Integrated with mysql
 2. Import dataset through sql quries
 3. Data modeling
@@ -54,8 +55,7 @@ Power BI :
 5. Mesures creation
 6. Report building : Overview, Conversion details, Social media details, Cusotmer review details
 
-📽️ PowerPoint Presentation :
-
+D- PowerPoint Presentation :
 Create PPT to present insights in a concise way.
 
 📊 Insights :
