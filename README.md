@@ -57,7 +57,7 @@ To carry out customer sentiment analysis by integration with mysql
 6. Report building : Overview, Conversion details, Social media details, Cusotmer review details
 
 ● PowerPoint Presentation :
-Create PPT to present insights in a concise way.
+Created PPT to present insights in a concise way.
 
 📊 Insights & Recommendations :
 1. Increase Conversion Rates: 
