@@ -11,17 +11,20 @@ Key Points:
 4. Need for Customer Feedback Analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions.
 
 Sentiment Analysis Script :
+
 ![Script](Sentiment_Analysis_Script.jpg)
 
 Data Model :
+
 ![Data Model](Data_Model.jpg)
 
 Overview Report :
+
 ![See Dashboard](Overview1.jpg)
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-💡 Project Process :
+💡 Project Process -->
 Goals And Required Insights --
 1. Increase Conversion Rates:
 Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
