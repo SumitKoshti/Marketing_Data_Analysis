@@ -1,8 +1,5 @@
 # Marketing-Analytics
 
-Full Dashboard - [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-![See Dashboard](Overview1.jpg)
-
 🎯 Project Objective : 
 Sports 24, an online retail business, is facing reduced customer engagement and conversion rates despite substantial investments in new marketing campaigns. With high marketing expenses yielding low returns, 
 the company seeks to analyze customer feedback and identify areas for improvement in its marketing strategies.
@@ -12,6 +9,18 @@ Key Points:
 2. Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
 3. High Marketing Expenses: Significant investments in marketing campaigns are not yielding expected returns.
 4. Need for Customer Feedback Analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions.
+
+Sentiment Analysis Script :
+![Script](Sentiment_Analysis_Script.jpg)
+
+Data Model :
+![Data Model](Data_Model.jpg)
+
+Overview Report :
+![See Dashboard](Overview1.jpg)
+
+[See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 
 Goals And Required Insights --
 1. Increase Conversion Rates:
