@@ -21,7 +21,7 @@ Overview Report :
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-
+💡 Project Process :
 Goals And Required Insights --
 1. Increase Conversion Rates:
 Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
