@@ -1,4 +1,4 @@
-# Marketing-Analytics
+# Marketing_Data_Analysis
 
 🎯 Project Objective : 
 Sports 24, an online retail business, is facing reduced customer engagement and conversion rates despite substantial investments in new marketing campaigns. With high marketing expenses yielding low returns, 
