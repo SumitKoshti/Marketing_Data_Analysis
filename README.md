@@ -58,7 +58,7 @@ To carry out customer sentiment analysis by integration with mysql
 ● PowerPoint Presentation :
 Create PPT to present insights in a concise way.
 
-📊 Insights :
+📊 Insights & Recommendations :
 1. Increase Conversion Rates: 
 Target High-Performing Product Categories: Focus marketing on products with high conversion rates, like Kayaks, Ski Boots, and Baseball Gloves. Launch seasonal promotions or 
 personalized campaigns during peak months (e.g., January and September) to maximize trends.
