@@ -55,6 +55,7 @@ Power BI :
 6. Report building : Overview, Conversion details, Social media details, Cusotmer review details
 
 📽️ PowerPoint Presentation :
+
 Create PPT to present insights in a concise way.
 
 📊 Insights :
