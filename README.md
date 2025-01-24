@@ -4,7 +4,7 @@
 Sports 24, an online retail business, is facing reduced customer engagement and conversion rates despite substantial investments in new marketing campaigns. With high marketing expenses yielding low returns, 
 the company seeks to analyze customer feedback and identify areas for improvement in its marketing strategies.
 
-Key Points:
+📌 Key Points:
 1. Reduced Customer Engagement: The number of customer interactions and engagement with the site and marketing content has declined.
 2. Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
 3. High Marketing Expenses: Significant investments in marketing campaigns are not yielding expected returns.
@@ -24,7 +24,7 @@ Overview Report :
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-💡 Project Process -->
+🔧 Project Process -->
 Goals And Required Insights --
 1. Increase Conversion Rates:
 Goal: Identify factors impacting the conversion rate and provide recommendations to improve it.
@@ -36,7 +36,7 @@ Insight: Analyze interaction levels with different types of marketing content to
 Goal: Understand common themes in customer reviews and provide actionable insights.
 Insight: Identify recurring positive and negative feedback to guide product and service improvements.
 
-Tools used -
+🛠️ Tools used -
 Mysql : 
 1. Database creation
 2. Table Creation & Dataset Import
@@ -54,10 +54,10 @@ Power BI :
 5. Mesures creation
 6. Report building : Overview, Conversion details, Social media details, Cusotmer review details
 
-PowerPoint Presentation :
+📽️ PowerPoint Presentation :
 Create PPT to present insights in a concise way.
 
-Insights :
+📊 Insights :
 1. Increase Conversion Rates: 
 Target High-Performing Product Categories: Focus marketing on products with high conversion rates, like Kayaks, Ski Boots, and Baseball Gloves. Launch seasonal promotions or 
 personalized campaigns during peak months (e.g., January and September) to maximize trends.
